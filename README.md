@@ -1,6 +1,9 @@
 # qzo-assets
-Recursos visuais para o projeto QZO
+
 💎 QuantyzoV2 (QZO2): Seu Próximo Investimento Inteligente
+🔗 Contrato na BNB Chain: 0x1234567890abcdef1234567890abcdef12345678
+O QZO2 é um token criado para quem busca segurança, valorização contínua e um ecossistema que cresce junto com a comunidade.
+
 O QZO2 é um token criado para quem busca segurança, valorização contínua e um ecossistema que cresce junto com a comunidade. Com tecnologia robusta e mecânicas estratégicas, o QuantyzoV2 entrega o que os investidores mais experientes procuram — e o que os novatos precisam para começar com o pé direito.
 🚀 Por que o QuantyzoV2 é diferente?
 •	🌍 Tokenomics Inteligente
