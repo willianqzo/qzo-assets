@@ -1,7 +1,7 @@
 # QZO2 - Token BEP-20
 
 1️⃣ **A QZO2 está em fase inicial 
-Com liquidez limitada, apenas os primeiros terão acesso.  
+Com liquidez limitada,  
 **Seja um dos pioneiros!**
 
 2️⃣ **Comunidade em construção**  
