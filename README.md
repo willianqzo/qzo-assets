@@ -1,6 +1,15 @@
 # QZO2 - Token BEP-20
 
 QZO2 é uma criptomoeda criada na Binance Smart Chain com foco em acessibilidade, comunidade e inovação. Este projeto está em fase inicial e busca atrair os primeiros apoiadores para construir uma rede sólida e transparente.
+QZO2 já está disponível!**  
+Token BEP-20 desenvolvido na Binance Smart Chain.
+
+---
+
+## 📌 Informações principais
+
+- 📜 **Contrato do token:**  
+`0x6169269514a060c87C6E4581Da4F7E9Fbb327d3
 
 ## 🔥 Características
 - Token BEP-20
