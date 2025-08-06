@@ -4,7 +4,7 @@ QZO2 é uma criptomoeda criada na Binance Smart Chain com foco em acessibilidade
 
 ## 🔥 Características
 - Token BEP-20
-- Lançamento com liquidez limitada (R$60)
+- Lançamento com liquidez de (R$60)
 - Foco em crescimento orgânico e recompensas para early adopters
 
 ## 📈 Objetivo
